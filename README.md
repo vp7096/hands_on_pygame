@@ -1,2 +1,2 @@
 # hands_on_pygame
-woo
+woo new pygame for gammers....
